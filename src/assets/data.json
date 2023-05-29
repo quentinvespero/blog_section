@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "title": "My First Post",
+            "date": "2023-05-01",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu ultrices bibendum, ipsum sapien ultricies velit, vel ultricies nunc lorem ac mauris."
+        },
+        {
+            "title": "My Second Post",
+            "date": "2023-05-15",
+            "body": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed euismod, urna eu ultrices bibendum, ipsum sapien ultricies velit, vel ultricies nunc lorem ac mauris."
+        },
+        {
+            "title": "My Third Post",
+            "date": "2023-05-29",
+            "body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed euismod, urna eu ultrices bibendum, ipsum sapien ultricies velit, vel ultricies nunc lorem ac mauris."
+        }
+    ]
+}
